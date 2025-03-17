@@ -1,4 +1,4 @@
-package Tuan1;
+package Tuan2;
 
 /* given an array = [34, 1, 23, 4, 3, 12, 45, 33, 6, 22] * find max item */
 public class Test6 {
